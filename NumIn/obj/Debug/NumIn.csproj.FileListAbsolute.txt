@@ -1,0 +1,15 @@
+C:\Users\svsho\Desktop\NumIn\NumIn\NumIn\bin\Debug\NumIn.exe.config
+C:\Users\svsho\Desktop\NumIn\NumIn\NumIn\bin\Debug\NumIn.exe
+C:\Users\svsho\Desktop\NumIn\NumIn\NumIn\bin\Debug\NumIn.pdb
+C:\Users\svsho\Desktop\NumIn\NumIn\NumIn\obj\Debug\NumIn.csproj.AssemblyReference.cache
+C:\Users\svsho\Desktop\NumIn\NumIn\NumIn\obj\Debug\NumIn.csproj.SuggestedBindingRedirects.cache
+C:\Users\svsho\Desktop\NumIn\NumIn\NumIn\obj\Debug\NumIn.Calculator.resources
+C:\Users\svsho\Desktop\NumIn\NumIn\NumIn\obj\Debug\NumIn.DiscriminantForm.resources
+C:\Users\svsho\Desktop\NumIn\NumIn\NumIn\obj\Debug\NumIn.Properties.Resources.resources
+C:\Users\svsho\Desktop\NumIn\NumIn\NumIn\obj\Debug\NumIn.ReshenieDiscriminanta.resources
+C:\Users\svsho\Desktop\NumIn\NumIn\NumIn\obj\Debug\NumIn.Systemschislenya.resources
+C:\Users\svsho\Desktop\NumIn\NumIn\NumIn\obj\Debug\NumIn.csproj.GenerateResource.cache
+C:\Users\svsho\Desktop\NumIn\NumIn\NumIn\obj\Debug\NumIn.csproj.CoreCompileInputs.cache
+C:\Users\svsho\Desktop\NumIn\NumIn\NumIn\obj\Debug\NumIn.exe
+C:\Users\svsho\Desktop\NumIn\NumIn\NumIn\obj\Debug\NumIn.pdb
+C:\Users\svsho\Desktop\NumIn\NumIn\NumIn\obj\Debug\NumIn.MainForm.resources
