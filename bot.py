@@ -11,7 +11,7 @@ a_=int()
 b_=int()
 c_=int()
 
-token = '5387291676:AAHhaLUVqSDHt1G8gvcWDO0D8T0IizYjSPY'
+token = ''
 bot = telebot.TeleBot(token)
 
 kb = types.InlineKeyboardMarkup()
